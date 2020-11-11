@@ -6,7 +6,7 @@ body{
 
 .home-section{
     height: 100% !important;
-    padding:10rem 4rem 4rem 4rem;
+    padding:5rem 4rem 4rem 4rem;
 }
 
 .home-header{
@@ -45,26 +45,6 @@ body{
     color:#2d2d2d;
 }
 
-.team-para{
-    margin-top: 1.5rem;
-    font-size: 1.1rem;
-    font-style: normal;
-    font-weight: 500;
-    letter-spacing: 0em;
-    color:#2d2d2d;
-    text-align: left !important;
-}
-
-.project-para{
-    margin-top: 1.5rem;
-    font-size: 1.1rem;
-    font-style: normal;
-    font-weight: 500;
-    letter-spacing: 0em;
-    color:#2d2d2d;
-    text-align: left !important;
-}
-
 .cta-button{
     margin-top: 1.5rem;
     background-color: #4183F3 !important;
@@ -81,83 +61,6 @@ body{
     background-color: white !important;
     border-color: #4183F3 !important;
     color: #4183F3 !important;
-}
-
-
-.team-button{
-    margin-top:1.5rem;
-    background-color: #008000 !important;
-    border-radius: 50px !important;
-    height:3.5rem;
-    font-size: 1.1rem !important;
-    width: 14rem;
-    font-weight: 700 !important;
-    transition: transform .2s;
-    border-color: #008000;
-}
-
-.team-button:hover{
-    transform: scale(1.1);
-    background-color: white !important;
-    border-color: #008000 !important;
-    color: #008000 !important;
-}
-
-.project-button{
-    margin-top: 1.5rem;
-    background-color:#E94335 !important;
-    border-radius: 50px !important;
-    height:3.5rem;
-    font-size: 1.1rem !important;
-    width: 14rem;
-    font-weight: 700 !important;
-    transition: transform .2s;
-    border-color: #ff0000;
-}
-
-.project-button:hover{
-    transform: scale(1.1);
-    background-color: white !important;
-    border-color: #ff0000 !important;
-    color: #ff0000 !important;
-}
-
-.events-button{
-    margin-top: 1.5rem;
-    background-color: #4183F3!important;
-    border-radius: 50px !important;
-    height:3.5rem;
-    font-size: 1.1rem !important;
-    width: 14rem;
-    font-weight: 700 !important;
-    transition: transform .2s;
-    border-color: #4183F3;
-}
-
-.events-button:hover{
-    transform: scale(1.1);
-    background-color: white !important;
-    border-color:  #4183F3 !important;
-    color: #4183F3 !important;
-}
-
-
-.align-btn{
-    text-align: left;
-}
-
-.mobile-tab-header{
-    display: none;
-}
-
-.desktop-header{
-    display: block !important;
-    font-size: 4rem;
-    font-style: normal;
-    font-weight: 700 !important;
-    line-height: 84px;
-    letter-spacing: 0em;
-    text-align: left;
 }
 
 
@@ -209,29 +112,6 @@ body{
         letter-spacing: 0em;
         color:#2d2d2d;
     }
-
-    .team-para{
-        margin-top: 2rem;
-        font-size: 1rem;
-        font-style: normal;
-        font-weight: 500;
-        letter-spacing: 0em;
-        color:#2d2d2d;
-        text-align: center !important;
-        padding: 0rem 2rem;
-    }
-
-    
-    .project-para{
-        margin-top: 2rem;
-        font-size: 1rem !important;
-        font-style: normal;
-        font-weight: 500;
-        letter-spacing: 0em;
-        color:#2d2d2d;
-        text-align: center !important;
-        padding: 0rem 2rem;
-    }
     
     .cta-button{
         margin-top: 2rem;
@@ -251,44 +131,6 @@ body{
         color: #4183F3 !important;
     }
 
-    .team-button{
-        margin-top: 2rem;
-        background-color: #008000 !important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-    }
-
-    .project-button{
-        margin-top: 2rem;
-        background-color:#E94335 !important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        border: none;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-    }
-
-    .events-button{
-        margin-top: 1.5rem;
-        background-color:#F9BB08!important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-        border-color: #F9BB08;
-    }
-
-    .align-btn{
-        text-align: center;
-    }
 
     .hero-image{
         margin-top: 4rem;
@@ -351,30 +193,6 @@ body{
         letter-spacing: 0em;
         color:#2d2d2d;
     }
-
-    .team-para{
-        margin-top: 2rem;
-        font-size: 1rem;
-        font-style: normal;
-        font-weight: 500;
-        letter-spacing: 0em;
-        color:#2d2d2d;
-        text-align: center !important;
-        padding: 0rem 2rem;
-    }
-
-    
-    .project-para{
-        margin-top: 2rem;
-        font-size: 1rem !important;
-        font-style: normal;
-        font-weight: 500;
-        letter-spacing: 0em;
-        color:#2d2d2d;
-        text-align: center !important;
-        padding: 0rem 2rem;
-    }
-    
     .cta-button{
         margin-top: 2rem;
         background-color: #4183F3 !important;
@@ -393,57 +211,9 @@ body{
         color: #4183F3 !important;
     }
 
-    .team-button{
-        margin-top: 2rem;
-        background-color: #008000 !important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-    }
-
-    .project-button{
-        margin-top: 2rem;
-        background-color:#E94335 !important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        border: none;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-    }
-
-    .events-button{
-        margin-top: 1.5rem;
-        background-color:#F9BB08!important;
-        border-radius: 50px !important;
-        height:3.5rem;
-        font-size: 1.1rem !important;
-        width: 14rem;
-        font-weight: 700 !important;
-        transition: transform .2s;
-        border-color: #F9BB08;
-    }
-
-    .align-btn{
-        text-align: center;
-    }
 
     .hero-image{
         margin-top: 4rem;
-    }
-
-    .mobile-tab-header{
-        display:block;
-        font-size: 2.8rem;
-        line-height: 1;
-    }
-
-    .section-heading{
-        text-align: center !important;
     }
 }
 

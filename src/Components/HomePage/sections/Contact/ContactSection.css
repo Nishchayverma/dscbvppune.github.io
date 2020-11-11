@@ -99,6 +99,10 @@ html{
     color: #F9BB08;
 }
 
+.fab.fa-github:hover{
+    color: #0C9C57;
+}
+
 @media only screen and (max-width: 1200px){
     .contact-right-section{
         padding-right: 50px;
