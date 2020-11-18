@@ -15,23 +15,6 @@ body{
     filter: drop-shadow(2px 5px 10px rgb(235, 235, 235)) !important;
 }
 
-
-.main-padding{
-    padding:1.5rem;
-}
-
-.member-image{
-    /* background-color: yellow; */
-    height: 80pt;
-    width: 80pt;
-    position: relative;
-    -moz-border-radius: 10000px;
-    -webkit-border-radius: 10000px;
-    border-radius: 10000px;
-    text-align: center;
-}
-
-
 .member-name{
     font-weight: 700 !important;
     color: #2d2d2d;
@@ -39,6 +22,7 @@ body{
     text-align: center !important;
     text-align: center;
 }
+
 .member-domain{
     margin-top: -0.7rem;
     font-weight: 500;
@@ -46,21 +30,6 @@ body{
     font-size: 1.2rem;
     text-align: center !important;
     padding:0rem;
-}
-.social-media{
-        padding: 5pt;
-        pointer-events: none;
-        margin: 3px;
-        padding: 3px;
-    
-    
-}
-.social-media-row{
-    vertical-align: bottom;
-    width: auto ;
-    text-align: center !important;
-    background-color: green !important;
-    border:none !important;
 }
 
 .social-teams{
@@ -75,10 +44,6 @@ body{
 .bottom-social{
     
     padding: 0.2rem !important;
-}
-
-.team-social{
-    margin-left: 0rem;
 }
 
 /* .pImage-padding{

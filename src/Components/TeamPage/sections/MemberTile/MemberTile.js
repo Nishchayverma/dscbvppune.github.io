@@ -6,9 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 class MemberTile extends Component {
     render() {
-
         return (
-
             <Col md={6} lg={4} xs={12} xl={4} sm={12} className="mb-5 card-col">
                 <Card className="pt-2 member-card">
                     <div className="pImage-padding">

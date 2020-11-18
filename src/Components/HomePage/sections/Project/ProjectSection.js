@@ -4,7 +4,7 @@ import '../../HomeRightSection.css';
 import '../../HomeLeftSection.css';
 import '../../main.css'; 
 
-import { Container, Row, Col, Image } from 'react-bootstrap';
+import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 
 function TeamSection() {
   return (

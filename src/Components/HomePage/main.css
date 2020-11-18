@@ -27,12 +27,12 @@
 
 .project-button{
     background-color:#E94335 !important;
-    border-color: #ff0000;
+    border-color: #ff0000 !important;
 }
 
 .events-button{
     background-color: #4183F3!important;
-    border-color: #4183F3;
+    border-color: #4183F3 !important;
 }
 
 .team-button:hover{
@@ -167,8 +167,8 @@
     }
 
     .events-button{
-        background-color:#F9BB08!important;
-        border-color: #F9BB08;
+        background-color: #4183F3!important;
+        border-color: #4183F3 !important;
     }
 
     .align-btn{

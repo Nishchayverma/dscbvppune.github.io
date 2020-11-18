@@ -20,17 +20,17 @@ html{
 
 .team-section{
     height: 100% !important;
-    padding:4rem 0rem 2rem 0rem;
+    padding:4rem !important;
 }
 
 .project-section{
     height: 100% !important;
-    padding:4rem 0rem 2rem 0rem;
+    padding:4rem;
 }
 
 .events-section{
     height: 100% !important;
-    padding:4rem 0rem 2rem 0rem;
+    padding:4rem;
 }
 
 .section-heading{
@@ -150,6 +150,22 @@ html{
     text-align: center;
     font-weight: 700;
 }
+
+.team-section{
+    height: 100% !important;
+    padding:3rem 0rem !important;
+}
+
+.project-section{
+    height: 100% !important;
+    padding:3rem 0rem !important;
+}
+
+.events-section{
+    height: 100% !important;
+    padding:3rem 0rem !important;
+}
+
 
 }
 
