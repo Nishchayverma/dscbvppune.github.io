@@ -14,9 +14,6 @@ html{
     padding: 4rem 0rem 2rem 0rem;
 }
 
-.contact-right-section{
-    text-align: left;
-}
 
 .Contact-header{
     text-align: left;
@@ -29,11 +26,6 @@ html{
     font-weight: 500;
     color:#2d2d2d;
     text-align: left !important;
-}
-
-.right-section-heading{
-    text-align: right;
-    font-size: 70px;
 }
 
 .right-section-description{
@@ -104,9 +96,7 @@ html{
 }
 
 @media only screen and (max-width: 1200px){
-    .contact-right-section{
-        padding-right: 50px;
-    }
+    
     .right-section-image{
         width: 120%;
         
@@ -115,9 +105,7 @@ html{
 
 
 @media only screen and (max-width: 1070px){
-    .contact-right-section{
-        padding-right: 20px;
-    }
+    
     .right-section-image{
         margin-left: 30px;
     }
@@ -129,9 +117,6 @@ html{
 
 
 @media only screen and (max-width: 988px){
-    .right-section-heading{
-        font-size: 60px;
-    }
     .right-section-description{
         
         font-size: 18px;
@@ -145,9 +130,7 @@ html{
     .right-section-image{
          margin-top: -80px;
      }
-     .contact-right-section{
-        padding-right: 10px;
-    }
+     
 }
 @media only screen and (max-width: 850px){
    
@@ -155,24 +138,14 @@ html{
         margin-top: -50px;
         margin-left: 10px;
     }
-    .right-section-heading{
-        font-size: 50px;
-    }
     .right-section-description{
         font-size: 17px;
         margin-left: -60px;
-    }
-    .contact-right-section{
-        padding-right: 0px;
     }
 }
 
 @media only screen and (max-width: 768px){
 
-    .contact-right-section{
-        padding-top: 10px;
-        margin-bottom: 100px;
-    }
 
     .Contact-header{
         text-align: center;
@@ -221,34 +194,16 @@ html{
     justify-content: center;
     align-items: center;
 }
-.right-section-heading{
-    font-size: 60px;
-     text-align: center;
-}
-.contact-right-section{
-    margin-bottom: 0;
-}
 .contact-icons{
     margin-top: 35px;
 }
 }
 @media only screen and (max-width: 687px){
   
-    .contact-right-section{
-        margin-bottom: -90px;
-    }
     
 }
 
 @media only screen and (max-width: 576px){
-    .right-section-heading{
-         font-size: 50px;
-         text-align: center;
-    }
-    .contact-right-section{
-        padding-top: 40px;
-        margin-bottom: -120px;
-    }
     .right-section-description{
         font-size: 16px;
     }
@@ -261,10 +216,6 @@ html{
 
 
 @media only screen and (max-width: 498px){
-    .contact-right-section{
-        padding-top: 50px;
-        margin-bottom: -100px;
-    }
     .right-section-image{
         width: 75%;
     }
@@ -280,9 +231,6 @@ html{
     .right-section-image{
         width: 90%;
     }
-    .contact-right-section{
-        padding-top: 30px ;
-    }
     
     .contact-icons{
         margin-top: 45px;
@@ -293,9 +241,6 @@ html{
     .right-section-description{
         width: 120%;
         margin-left: -30px;
-    }
-    .right-section-heading{
-       font-size: 40px;
     }
 }
 
