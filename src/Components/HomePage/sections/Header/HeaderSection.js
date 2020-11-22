@@ -8,7 +8,7 @@ function HeaderSection() {
         <div>
             <Navbar fixed="top" className="nav-bar">
                 <div className="header">
-                    <div className="container-fluid padding-removed">
+                    <div className="container padding-removed">
                         <div className="row padding-removed">
                             <div className="col-2">
                                 <img src={logo} className="logo img-fluid" alt="DSC Logo" />
